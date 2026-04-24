@@ -1,1 +1,0 @@
-import{Za as e,lb as o,w as t}from"./chunk-OKIEOO6U.js";import{fa as r}from"./chunk-UZZXVXSO.js";var p=(i,u)=>r(e).isLoggedIn()?!0:(r(t).navigate(["/auth",o.Login],{queryParams:{redirect:u.url}}),!1);export{p as a};
